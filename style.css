@@ -162,3 +162,33 @@
     justify-content: center;
     
 }
+.sec5{
+       max-width: 1440px;
+    margin: auto; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 200px;
+    height: 664px;
+    background-color: #FFD4A4;
+    text-align: center;
+    gap: 20px;
+    position: relative;
+    z-index: 0;
+}
+.sec5 button{
+    font-size: 18px;
+    padding: 20px 0px;
+    border-radius: 10px;
+    width:180px;
+    border: none;
+}
+.sec6{
+      max-width: 1440px;
+    margin: auto; 
+    display: flex;
+    justify-content: center;
+    position: relative;
+    z-index: 1;
+    bottom: 350px;
+}
