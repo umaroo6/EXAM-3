@@ -192,3 +192,15 @@
     z-index: 1;
     bottom: 350px;
 }
+.sec6_r1{
+    display: flex;
+     max-width: 1440px;
+    margin: auto; 
+    justify-content: center;
+    gap: 30px;
+    height: 664px;
+    position: relative;
+    z-index: 0;
+    bottom: 690px;
+    padding: 0px 350px;
+}
