@@ -204,3 +204,28 @@
     bottom: 690px;
     padding: 0px 350px;
 }
+.sec7{
+     max-width: 1440px;
+    margin: auto;
+    position: absolute;
+    z-index: 0;
+    top: 5500px;
+    left: 300px;
+    border-top: 1px solid gray;
+    padding-top: 100px;
+    
+}
+.sec7 button{
+      font-size: 18px;
+    padding: 20px 0px;
+    border-radius: 10px;
+    width:180px;
+    border: none;
+}
+.sec7 p{
+
+    color: #6E6E6E;
+    font-size: 18px;
+    position: relative;
+
+} 
