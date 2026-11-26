@@ -234,7 +234,7 @@
 .sec8{
     position: relative;
     top: 900px;
-      max-width: 1440px;
+      max-width: 1140px;
     margin: auto; 
     display: flex;
    padding: 0px 150px;
@@ -334,4 +334,25 @@
      max-width: 1440px;
     margin: auto;
     border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    background-color: #FEF9F2;
+    gap: 70px;
+   
+}
+.sec10 p{
+font-size: 18px;
+color: #b0abab;
+}
+.sec10_p3{
+    background-color: #FF9C08;
+    width: 388px;
+    height: 364px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    margin-top: 100px;
 }
