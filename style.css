@@ -213,6 +213,7 @@
     left: 300px;
     border-top: 1px solid gray;
     padding-top: 100px;
+
     
 }
 .sec7 button{
@@ -229,3 +230,55 @@
     position: relative;
 
 } 
+.sec8{
+    position: relative;
+    top: 900px;
+      max-width: 1440px;
+    margin: auto; 
+    display: flex;
+   padding: 0px 150px;
+   justify-content: center;
+   gap: 100px;
+   background-color: #FEF9F2;
+   align-items: center;
+   padding-top: 200px;
+   
+}
+.sec8_p11{
+    box-shadow: 0 0 10px rgb(190, 189, 189);
+    width: 388px;
+    height: 298px;
+    display: flex;
+    flex-direction: column;
+   border-radius: 10px;
+   gap: 20px;
+    background-color: white;
+    justify-content: center;
+    padding: 0px 10px;
+    position: relative;
+    z-index: 1;
+    bottom: 250px;
+    left: 230px;
+
+}
+.sec8_p11 p{
+    color: #b0abab;
+    font-size: 18px;
+    font-weight: 400;
+    position: relative;
+    z-index: 1;
+    padding: 0px 20px;
+}
+.sec8 button{
+     font-size: 18px;
+    padding: 20px 0px;
+    border-radius: 10px;
+    width:180px;
+    border: none;
+}
+.sec8_p12{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+   padding-bottom:400px ;
+}
